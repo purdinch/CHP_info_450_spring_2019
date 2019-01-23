@@ -1,1 +1,20 @@
+// Program2.cpp : Using a variable
+//
+
+#include "stdafx.h"
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int x = 666; //This declares a variable 
+
+	x = 666; //This assigns 666 to x
+
+	cout << "This program prints the value of x: ";
+	cout << x; //This displays 666
+
+    return 0;
+}
+
 
