@@ -1,5 +1,5 @@
 // Practice1.cpp : This application while read any positive value and output the square root
-// it will continue in it's loop until 0 is entered.
+// it will continue in its loop until 0 is entered.
 
 #include "stdafx.h"
 #include <iostream>
