@@ -1,0 +1,8 @@
+Automobile
+2
+2
+0
+truck
+4
+4
+1500
